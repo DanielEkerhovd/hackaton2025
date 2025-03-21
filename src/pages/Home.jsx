@@ -1,21 +1,18 @@
 import { Display } from '../components/Display.jsx';
+import { Search } from '../components/Search.jsx';
 
-import { GetProjects } from '../api/GetProjects.js';
-import { useEffect } from 'react';
+import { useProjectStore } from '../datastorage/project.js';
+
+// import { useEffect } from 'react';
 
 export function Home() {
-  const location = '/projects.json';
-  const { projects } = GetProjects(location);
-
-  useEffect(() => {
-    if (projects) {
-      console.log('Projects:', projects);
-    }
-  }, [projects]);
+  const { activeProject } = useProjectStore();
+  console.log(activeProject);
 
   return (
-    <>
+    <section className="flex flex-col gap-2 w-full">
       <Display />
-    </>
+      <Search />
+    </section>
   );
 }

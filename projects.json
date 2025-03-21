@@ -1,31 +1,7 @@
 [
   {
-    "title": "Live Polling Web App",
-    "description": "A real-time voting system where users can create polls and see live results.",
-    "min": 2,
-    "max": 4,
-    "skills": {
-      "frontend": true,
-      "backend": true,
-      "game": false
-    },
-    "tags": ["Real-time", "WebSockets", "React", "Node.js", "Charts"]
-  },
-  {
-    "title": "AI-Based Code Snippet Generator",
-    "description": "A web tool that suggests code snippets based on a user's input using AI.",
-    "min": 3,
-    "max": 5,
-    "skills": {
-      "frontend": true,
-      "backend": true,
-      "game": false
-    },
-    "tags": ["AI", "OpenAI API", "React", "Express", "Code Generation"]
-  },
-  {
-    "title": "Minimalist Task Manager",
-    "description": "A lightweight to-do list app with drag-and-drop functionality.",
+    "title": "Frontend Project #1: Innovative Interface",
+    "description": "A visually appealing frontend project built as a interface with a innovative design.",
     "min": 1,
     "max": 3,
     "skills": {
@@ -33,6 +9,3644 @@
       "backend": false,
       "game": false
     },
-    "tags": ["Productivity", "React", "LocalStorage", "Drag and Drop", "UI/UX"]
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #2: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 2,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #3: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a application.",
+    "min": 3,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #4: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #5: Sleek Experience",
+    "description": "A visually appealing frontend project built as a experience with a sleek design.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #6: Robust API",
+    "description": "A robust backend project designed as an api with a robust architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #7: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #8: Immersive Adventure",
+    "description": "A game project that delivers an immersive adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #9: Innovative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a innovative design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #10: Scalable Engine",
+    "description": "A robust backend project designed as an engine with a scalable architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #11: Comprehensive Solution",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a solution.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #12: Addictive Adventure",
+    "description": "A game project that delivers an addictive adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #13: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #14: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #15: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #16: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #17: Creative Site",
+    "description": "A visually appealing frontend project built as a site with a creative design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #18: Efficient Engine",
+    "description": "A robust backend project designed as an engine with a efficient architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #19: Seamless Platform",
+    "description": "A fullstack project that combines a seamless frontend with a powerful backend, forming a platform.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #20: Challenging Game",
+    "description": "A game project that delivers an challenging game experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #21: Innovative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a innovative design.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #22: Scalable Database",
+    "description": "A robust backend project designed as a database with a scalable architecture.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #23: Comprehensive Portal",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a portal.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #24: Epic Quest",
+    "description": "A game project that delivers an epic quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #25: Modern Experience",
+    "description": "A visually appealing frontend project built as an experience with a modern design.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #26: Secure System",
+    "description": "A robust backend project designed as a system with a secure architecture.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #27: Integrated Application",
+    "description": "A fullstack project that combines a integrated frontend with a powerful backend, forming an application.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #28: Epic Simulation",
+    "description": "A game project that delivers an epic simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #29: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #30: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #31: Unified Ecosystem",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an ecosystem.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #32: Immersive Adventure",
+    "description": "A game project that delivers an immersive adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #33: Modern Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a modern design.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #34: Secure Engine",
+    "description": "A robust backend project designed as an engine with a secure architecture.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #35: Seamless Portal",
+    "description": "A fullstack project that combines a seamless frontend with a powerful backend, forming a portal.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #36: Addictive Arcade",
+    "description": "A game project that delivers an addictive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #37: Innovative Web App",
+    "description": "A visually appealing frontend project built as a web app with a innovative design.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #38: Scalable System",
+    "description": "A robust backend project designed as a system with a scalable architecture.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #39: Comprehensive Platform",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a platform.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #40: Challenging Quest",
+    "description": "A game project that delivers a challenging quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #41: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 5,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #42: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #43: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #44: Immersive Simulation",
+    "description": "A game project that delivers an immersive simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #45: Modern Experience",
+    "description": "A visually appealing frontend project built as an experience with a modern design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #46: Secure API",
+    "description": "A robust backend project designed as an api with a secure architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #47: Integrated Portal",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming a portal.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #48: Epic Arcade",
+    "description": "A game project that delivers an epic arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #49: Creative Web App",
+    "description": "A visually appealing frontend project built as a web app with a creative design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #50: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #51: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #52: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #53: Innovative Interface",
+    "description": "A visually appealing frontend project built as an interface with a innovative design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #54: Robust Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #55: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #56: Immersive Adventure",
+    "description": "A game project that delivers an immersive adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #57: Modern Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a modern design.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #58: Scalable Engine",
+    "description": "A robust backend project designed as an engine with a scalable architecture.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #59: Comprehensive Platform",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a platform.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #60: Challenging Quest",
+    "description": "A game project that delivers a challenging quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #61: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #62: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #63: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #64: Epic Adventure",
+    "description": "A game project that delivers an epic adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #65: Innovative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a innovative design.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #66: Scalable API",
+    "description": "A robust backend project designed as an api with a scalable architecture.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #67: Comprehensive Solution",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a solution.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #68: Addictive Arcade",
+    "description": "A game project that delivers an addictive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #69: Sleek Web App",
+    "description": "A visually appealing frontend project built as a web app with a sleek design.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #70: Robust System",
+    "description": "A robust backend project designed as a system with a scalable architecture.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #71: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #72: Immersive Simulation",
+    "description": "A game project that delivers an immersive simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #73: Modern Interface",
+    "description": "A visually appealing frontend project built as an interface with a modern design.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #74: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #75: Integrated Application",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming an application.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #76: Epic Adventure",
+    "description": "A game project that delivers an epic adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #77: Creative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a creative design.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #78: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #79: Unified Ecosystem",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an ecosystem.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #80: Challenging Simulation",
+    "description": "A game project that delivers a challenging simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #81: Innovative Web App",
+    "description": "A visually appealing frontend project built as a web app with a innovative design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #82: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #83: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #84: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #85: Sleek Interface",
+    "description": "A visually appealing frontend project built as an interface with a sleek design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #86: Robust Database",
+    "description": "A robust backend project designed as a database with a scalable architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #87: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #88: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #89: Modern Experience",
+    "description": "A visually appealing frontend project built as an experience with a modern design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #90: Secure Engine",
+    "description": "A robust backend project designed as an engine with a secure architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #91: Integrated Ecosystem",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming an ecosystem.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #92: Challenging Simulation",
+    "description": "A game project that delivers a challenging simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #93: Creative Web App",
+    "description": "A visually appealing frontend project built as a web app with a creative design.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #94: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #95: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #96: Epic Arcade",
+    "description": "A game project that delivers an epic arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #97: Innovative Interface",
+    "description": "A visually appealing frontend project built as an interface with a innovative design.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #98: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #99: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #100: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #101: Modern Interface",
+    "description": "A visually appealing frontend project built as an interface with a modern design.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #102: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #103: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #104: Immersive Quest",
+    "description": "A game project that delivers an immersive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #105: Creative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a creative design.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #106: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #107: Comprehensive Portal",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a portal.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #108: Addictive Arcade",
+    "description": "A game project that delivers an addictive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #109: Innovative Web App",
+    "description": "A visually appealing frontend project built as a web app with a innovative design.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #110: Scalable System",
+    "description": "A robust backend project designed as a system with a scalable architecture.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #111: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #112: Challenging Quest",
+    "description": "A game project that delivers a challenging quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #113: Modern Interface",
+    "description": "A visually appealing frontend project built as an interface with a modern design.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #114: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #115: Comprehensive Solution",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a solution.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #116: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #117: Creative Web App",
+    "description": "A visually appealing frontend project built as a web app with a creative design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #118: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #119: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #120: Epic Quest",
+    "description": "A game project that delivers an epic quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #121: Innovative Interface",
+    "description": "A visually appealing frontend project built as an interface with a innovative design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #122: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #123: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #124: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #125: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #126: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #127: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #128: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #129: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #130: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #131: Comprehensive Portal",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a portal.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #132: Challenging Quest",
+    "description": "A game project that delivers a challenging quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #133: Innovative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a innovative design.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #134: Scalable API",
+    "description": "A robust backend project designed as an api with a scalable architecture.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #135: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #136: Epic Adventure",
+    "description": "A game project that delivers an epic adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #137: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #138: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #139: Comprehensive Solution",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a solution.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #140: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #141: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #142: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #143: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #144: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #145: Modern Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a modern design.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #146: Secure Engine",
+    "description": "A robust backend project designed as an engine with a secure architecture.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #147: Integrated Portal",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming a portal.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #148: Epic Simulation",
+    "description": "A game project that delivers an epic simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #149: Creative Experience",
+    "description": "A visually appealing frontend project built as an experience with a creative design.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #150: Reliable Database",
+    "description": "A robust backend project designed as a database with a scalable architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #151: Comprehensive Ecosystem",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an ecosystem.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #152: Addictive Adventure",
+    "description": "A game project that delivers an addictive adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #153: Innovative Interface",
+    "description": "A visually appealing frontend project built as an interface with a innovative design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #154: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #155: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #156: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #157: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #158: Secure Engine",
+    "description": "A robust backend project designed as an engine with a secure architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #159: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #160: Immersive Simulation",
+    "description": "A game project that delivers an immersive simulation experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #161: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #162: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #163: Integrated Application",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming an application.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #164: Epic Arcade",
+    "description": "A game project that delivers an epic arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #165: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #166: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #167: Unified Solution",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a solution.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #168: Immersive Quest",
+    "description": "A game project that delivers an immersive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #169: Creative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a creative design.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #170: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #171: Comprehensive Portal",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a portal.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #172: Addictive Arcade",
+    "description": "A game project that delivers an addictive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #173: Innovative Interface",
+    "description": "A visually appealing frontend project built as an interface with a innovative design.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #174: Scalable Service",
+    "description": "A robust backend project designed as a service with a scalable architecture.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #175: Unified Application",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming an application.",
+    "min": 4,
+    "max": 6,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #176: Epic Quest",
+    "description": "A game project that delivers an epic quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #177: Modern Interface",
+    "description": "A visually appealing frontend project built as an interface with a modern design.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #178: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #179: Integrated Application",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming an application.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #180: Immersive Quest",
+    "description": "A game project that delivers an immersive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #181: Creative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a creative design.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #182: Reliable Engine",
+    "description": "A robust backend project designed as an engine with a reliable architecture.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #183: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #184: Addictive Arcade",
+    "description": "A game project that delivers an addictive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #185: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #186: Secure API",
+    "description": "A robust backend project designed as an api with a secure architecture.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #187: Comprehensive Solution",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming a solution.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #188: Immersive Arcade",
+    "description": "A game project that delivers an immersive arcade experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #189: Creative Interface",
+    "description": "A visually appealing frontend project built as an interface with a creative design.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #190: Reliable Service",
+    "description": "A robust backend project designed as a service with a reliable architecture.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #191: Integrated Application",
+    "description": "A fullstack project that combines an integrated frontend with a powerful backend, forming an application.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #192: Challenging Quest",
+    "description": "A game project that delivers a challenging quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #193: Innovative Dashboard",
+    "description": "A visually appealing frontend project built as a dashboard with a innovative design.",
+    "min": 4,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #194: Scalable Engine",
+    "description": "A robust backend project designed as an engine with a scalable architecture.",
+    "min": 5,
+    "max": 8,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #195: Unified Portal",
+    "description": "A fullstack project that combines a unified frontend with a powerful backend, forming a portal.",
+    "min": 6,
+    "max": 7,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #196: Epic Adventure",
+    "description": "A game project that delivers an epic adventure experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 7,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
+  },
+  {
+    "title": "Frontend Project #197: Modern Web App",
+    "description": "A visually appealing frontend project built as a web app with a modern design.",
+    "min": 8,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": [
+      "Frontend",
+      "React",
+      "CSS",
+      "HTML",
+      "UI/UX"
+    ]
+  },
+  {
+    "title": "Backend Project #198: Secure Service",
+    "description": "A robust backend project designed as a service with a secure architecture.",
+    "min": 9,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Backend",
+      "Node.js",
+      "Express",
+      "API",
+      "Database"
+    ]
+  },
+  {
+    "title": "Fullstack Project #199: Comprehensive Application",
+    "description": "A fullstack project that combines a comprehensive frontend with a powerful backend, forming an application.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": [
+      "Fullstack",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ]
+  },
+  {
+    "title": "Game Project #200: Addictive Quest",
+    "description": "A game project that delivers an addictive quest experience using tools like HTML, JS, Godot, Unity, or React.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": [
+      "Game",
+      "HTML5",
+      "JavaScript",
+      "Godot",
+      "Unity",
+      "React"
+    ]
   }
 ]

@@ -1,10 +1,21 @@
 import { Routes, Route } from 'react-router-dom';
 
+import { useProjectStore } from './datastorage/project.js';
+
 import { Home } from './pages/Home';
 
 import { Header } from './components/navigation/Header';
+import { useEffect } from 'react';
 
 function App() {
+  const { allProjects, pastProjects } = useProjectStore();
+  useEffect(() => {
+    console.log(allProjects);
+  }, [allProjects]);
+  useEffect(() => {
+    console.log(pastProjects);
+  }, [pastProjects]);
+
   return (
     <>
       <Header />
