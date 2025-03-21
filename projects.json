@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Live Polling Web App",
+    "description": "A real-time voting system where users can create polls and see live results.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Real-time", "WebSockets", "React", "Node.js", "Charts"]
+  },
+  {
+    "title": "AI-Based Code Snippet Generator",
+    "description": "A web tool that suggests code snippets based on a user's input using AI.",
+    "min": 3,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "OpenAI API", "React", "Express", "Code Generation"]
+  },
+  {
+    "title": "Minimalist Task Manager",
+    "description": "A lightweight to-do list app with drag-and-drop functionality.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Productivity", "React", "LocalStorage", "Drag and Drop", "UI/UX"]
+  }
+]
