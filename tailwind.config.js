@@ -4,10 +4,12 @@ export default {
   theme: {
     extend: {
       fontFamily: {
+        sans: ["Inter", "sans-serif"]
       },
       colors: {
       },
       screens: {
+        "2xl": "1440px"
       },
     },
   },
