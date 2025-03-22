@@ -1,64 +1,27 @@
-# React + Vite + Tailwind || A template by Daniel
+# idéSPRUT
 
-This is a template repository for starting a React project with Vite. It includes TailwindCSS, PostCSS, Autoprefixer, Prettier, Husky, Lint-staged, and React Router.
-Feel free to use this when creating own projects.
+🎉 **idéSPRUT** is an app designed for hackathons, providing fun and inspiring coding project ideas! Whether you're working alone or with a team, idéSPRUT helps spark creativity and kickstart your next hackathon project.
 
-## Features
-- **React** with **Vite** for fast development
-- **TailwindCSS** for styling
-- **PostCSS & Autoprefixer** for better CSS handling
-- **React Router** for client-side navigation
-- **Prettier, Husky & Lint-staged** for commit handling and code formatting
+## 🚀 Features
+- 🔀 **Random Project Ideas** – Get a fresh idea with every click!
+- 👥 **For Teams & Individuals** – Designed to inspire both solo developers and groups.
+- 🎭 **Diverse Categories** – Ideas range from games and AI to web apps and creative coding.
+- ⏳ **Quick & Simple** – No more wasted time brainstorming—jump right into coding!
 
-## Installation
+## 🎯 Purpose
+idéSPRUT was built for **Hubble Kodeklubb Hackathon 2025** to help participants find unique and exciting projects. Instead of spending hours figuring out what to build, idéSPRUT gives you an instant starting point.
 
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/DanielEkerhovd/Vite-React-Tailwind.git
-   cd Vite-React-Tailwind
-   ```
-2. **Install dependencies:**
-   ```sh
-   npm install
-   ```
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript (or React if applicable)
+- **Backend (optional):** Node.js, Express, or Firebase
+- **Hosting:** Netlify or Vercel
 
-3. **Start the development server:**
-   ```sh
-   npm run dev
-   ```
+## Live hosting
+Check out the website [here](https://idesprut.netlify.app/)
 
-## Available Scripts
-
-- `npm run dev` - Start the development server
-- `npm run build` - Build the project for production
-- `npm run preview` - Preview the production build
-- `npm run lint` - Run ESLint to check for linting issues
-- `npm run prepare` - For setting up husky (does this automatic on npm i)
-
-## Project Structure
-```
-├── src
-│   ├── components  # Reusable components
-│   ├── pages       # Page components for routing
-│   ├── index.css   # Global styles and Tailwind setup
-│   ├── main.jsx    # Entry point for React
-│   ├── App.jsx     # Root component
-│
-├── public          # Static assets
-├── index.html      # Index page
-│
-├── .husky          # Husky pre-commit hooks
-├── .prettierrc     # Prettier config
-├── .prettierignore # Prettier ignore for tailwind and eslint configs
-├── tailwind.config.js # TailwindCSS configuration
-├── vite.config.js  # Vite configuration
-├── eslint.config.js  # Eslint configuration
-├── .gitignore # For ignoring base files for github uploads
-└── README.md       # Project documentation
-```
-
-## Commit Handling
-
-This project uses **Husky** and **Lint-staged** to ensure quality commits:
-- **Prettier** formats staged files before commit
-- **ESLint** runs checks on staged JavaScript/JSX files
+## 📦 Installation
+Clone the repository and install dependencies:
+```sh
+git clone https://github.com/DanielEkerhovd/hackaton2025.git
+cd hackaton2025
+npm install
