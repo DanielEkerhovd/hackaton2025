@@ -12,9 +12,11 @@
 idéSPRUT was built for **Hubble Kodeklubb Hackathon 2025** to help participants find unique and exciting projects. Instead of spending hours figuring out what to build, idéSPRUT gives you an instant starting point.
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React if applicable)
-- **Backend (optional):** Node.js, Express, or Firebase
-- **Hosting:** Netlify or Vercel
+- ReactJS
+- TailwindCSS
+- VITE
+- Decap CMS
+- Netlify
 
 ## Live hosting
 Check out the website [here](https://idesprut.netlify.app/)
