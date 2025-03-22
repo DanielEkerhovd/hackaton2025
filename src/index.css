@@ -2,6 +2,28 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 
+/* Custom */
+
+input[type='checkbox'] {
+  @apply accent-highlight2;
+}
+
+input[type='checkbox']:checked::after {
+  @apply bg-highlight2;
+}
+
+button {
+  box-shadow: 5px 5px #1d2025;
+  @apply hover:translate-x-[-2px] hover:translate-y-[-2px] transition-all duration-200 ease-in-out;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

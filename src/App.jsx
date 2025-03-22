@@ -1,24 +1,26 @@
 import { Routes, Route } from 'react-router-dom';
 
-import { useProjectStore } from './datastorage/project.js';
-
 import { Home } from './pages/Home';
 import { Header } from './components/navigation/Header';
-import { useEffect } from 'react';
+import { Information } from './pages/Information';
+
+// import { useProjectStore } from './datastorage/project.js';
+// import { useEffect } from 'react';
 
 function App() {
-  const { allProjects } = useProjectStore();
+  // const { allProjects } = useProjectStore();
 
-  useEffect(() => {
-    console.log(allProjects);
-  }, [allProjects]);
+  // useEffect(() => {
+  //   console.log(allProjects);
+  // }, [allProjects]);
 
   return (
     <>
       <Header />
-      <section className="w-11/12 max-w-screen-2xl mx-auto bg-blue-100 h-[calc(100vh-60px)] flex justify-center">
+      <section className="w-11/12 max-w-screen-2xl mx-auto h-[calc(100vh-80px)] flex justify-center">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/informasjon" element={<Information />} />
         </Routes>
       </section>
     </>

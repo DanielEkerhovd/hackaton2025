@@ -70,10 +70,6 @@ export function Search() {
       filteredProjects = getFilteredProjects();
     }
 
-    console.log(filteredProjects.length);
-    console.log(filteredProjects);
-
-    // Pick a random project
     const randomChoice = Math.floor(Math.random() * filteredProjects.length);
     if (filteredProjects[randomChoice] !== undefined) {
       setActiveProject(filteredProjects[randomChoice]);
@@ -83,57 +79,51 @@ export function Search() {
 
   return (
     <form
-      className="flex flex-col gap-4"
+      className="flex flex-col justify-between md:justify-end gap-4 md:w-[500px]"
       onSubmit={(e) => {
         e.preventDefault();
         handleSearch();
       }}
     >
-      {/* Searchbar */}
-      <input
-        type="text"
-        placeholder="Søk"
-        value={searchTerm}
-        onChange={(e) => setSearchTerm(e.target.value)}
-        className="w-full max-w-xs p-2 border border-gray-300 rounded-md"
-      />
       {/* Filter */}
-      <div className="flex flex-col gap-2">
-        <div className="flex space-x-4 mt-2">
-          <label>
+      <div className="flex flex-row-reverse items-center justify-between gap-2">
+        <div className="grid justify-end gap-2">
+          <div className="flex justify-end gap-2">
+            <label htmlFor="frontend">Frontend</label>
             <input
               type="checkbox"
               name="frontend"
               checked={categories.frontend}
               onChange={handleCategoryChange}
-              className="mr-1"
+              className="size-6"
             />
-            Frontend
-          </label>
-          <label>
+          </div>
+          <div className="flex justify-end gap-2">
+            <label htmlFor="backend">Backend</label>
             <input
               type="checkbox"
               name="backend"
               checked={categories.backend}
               onChange={handleCategoryChange}
-              className="mr-1"
+              className="size-6"
             />
-            Backend
-          </label>
-          <label>
+          </div>
+          <div className="flex justify-end gap-2">
+            <label htmlFor="game">Games</label>
             <input
               type="checkbox"
               name="game"
               checked={categories.game}
               onChange={handleCategoryChange}
-              className="mr-1"
+              className="size-6"
             />
-            Games
-          </label>
+          </div>
         </div>
-        <div className="flex justify-center items-center gap-2">
+
+        {/* Search input */}
+        <div className="flex flex-col justify-center items-center gap-2">
           <label htmlFor="teamSize" className="block mb-1">
-            Team Size:
+            Team Size
           </label>
           <input
             type="number"
@@ -141,14 +131,22 @@ export function Search() {
             name="teamSize"
             min="1"
             max="9"
-            value={teamSize}
             onChange={(e) => setTeamSize(Number(e.target.value))}
-            className="w-20 p-2 border border-gray-300 rounded-md"
+            className="bg-highlight text-white p-2 rounded-sm text-center"
           />
         </div>
       </div>
+
+      {/* Searchbar */}
+      <input
+        type="text"
+        placeholder="Søk"
+        value={searchTerm}
+        onChange={(e) => setSearchTerm(e.target.value)}
+        className="w-full p-2 bg-shadow text-white"
+      />
       {/* Search button */}
-      <button type="submit" className="w-full bg-red-500 py-2 rounded-sm">
+      <button type="submit" className="w-full bg-highlight py-2 rounded-sm">
         Søk
       </button>
     </form>
