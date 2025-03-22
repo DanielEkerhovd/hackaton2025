@@ -11,11 +11,11 @@ display_url: https://hackatontips.netlify.app/
 collections:
   - name: "projects"
     label: "Prosjekter"
-    extentions: "json"
+    extensions: "json"
     format: json
     files: 
       - file: "public/json/projects.json"
-      - label: "Prosjekter"
+        label: "Prosjekter"
         name: "projects"
         fields:
           - name: 'prosjekt'
@@ -24,64 +24,40 @@ collections:
             widget: 'list'
             summary: '{{fields.title}}'
             fields:
-              - {
-                  name: 'title',
-                  label: 'Navn',
-                  widget: 'string',
-                  required: true
-                }
-              - {
-                  name: 'description',
-                  label: 'Beskrivelse',
-                  widget: 'text',
-                  required: true
-                }
-              - {
-                  name: 'min',
-                  label: 'Deltagere (min)',
-                  widget: 'number',
-                  required: true
-                }
-              - {
-                  name: 'max',
-                  label: 'Deltagere (maks)',
-                  widget: 'number',
-                }
-              - {
-                  name: 'skills',
-                  label: 'Ferdigheter',
-                  widget: 'object',
-                  fields:
-                    [
-                      {
-                        name: 'frontend',
-                        label: 'Frontend',
-                        widget: 'boolean'
-                      },
-                      {
-                        name: 'backend',
-                        label: 'Backend',
-                        widget: 'boolean'
-                      },
-                      {
-                        name: 'game',
-                        label: 'Games',
-                        widget: 'boolean'
-                      }
-                    ]
-                }
-              - {
-                  name: 'tags',
-                  label: 'Tags',
-                  widget: 'list',
-                  allow_add: true,
-                  allow_delete: true,
-                  fields:
-                    [
-                      {
-                        name: 'tag',
-                        label: 'Tag',
-                        widget: 'string'
-                      }
-                    ]
-                }
+              - name: 'title'
+                label: 'Navn'
+                widget: 'string'
+                required: true
+              - name: 'description'
+                label: 'Beskrivelse'
+                widget: 'text'
+                required: true
+              - name: 'min'
+                label: 'Deltagere (min)'
+                widget: 'number'
+                required: true
+              - name: 'max'
+                label: 'Deltagere (maks)'
+                widget: 'number'
+              - name: 'skills'
+                label: 'Ferdigheter'
+                widget: 'object'
+                fields:
+                  - name: 'frontend'
+                    label: 'Frontend'
+                    widget: 'boolean'
+                  - name: 'backend'
+                    label: 'Backend'
+                    widget: 'boolean'
+                  - name: 'game'
+                    label: 'Games'
+                    widget: 'boolean'
+              - name: 'tags'
+                label: 'Tags'
+                widget: 'list'
+                allow_add: true
+                allow_delete: true
+                fields:
+                  - name: 'tag'
+                    label: 'Tag'
+                    widget: 'string'
