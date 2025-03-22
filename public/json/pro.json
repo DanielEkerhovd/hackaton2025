@@ -1,5 +1,5 @@
 {
-  "prosjekt": [
+  "projects": [
     {
       "title": "Hjemmelaget meme-generator",
       "description": "Lag ditt eget meme ved å velge bilder og tekst. Perfekt for å skape morsomme memes til vennene dine!",
@@ -10,12 +10,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Meme",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Meme", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Superheltenavn-generator",
@@ -27,11 +22,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Generasjon",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Generasjon", "HTML", "JavaScript"]
     },
     {
       "title": "Gravemaskin-simulator",
@@ -43,10 +34,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Ektevenn-generator",
@@ -58,11 +46,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "Node.js",
-        "React"
-      ]
+      "tags": ["AI", "Node.js", "React"]
     },
     {
       "title": "Robot-bartender",
@@ -74,11 +58,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Robot",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Robot", "React", "Node.js"]
     },
     {
       "title": "Tegneserie-forteller",
@@ -90,12 +70,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Tegneserie",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Tegneserie", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Kattens veiledning til livet",
@@ -107,12 +82,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Katt",
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Katt", "AI", "React", "Node.js"]
     },
     {
       "title": "Tidligere livs-profiler",
@@ -124,11 +94,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["AI", "React", "Node.js"]
     },
     {
       "title": "Eksamens-hjelper",
@@ -140,11 +106,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Produktivitet", "React", "JavaScript"]
     },
     {
       "title": "Generasjon av dårlige vitser",
@@ -156,12 +118,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Humor",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Humor", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Hundens dagbok",
@@ -173,12 +130,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Hund",
-        "Blogg",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Hund", "Blogg", "React", "Node.js"]
     },
     {
       "title": "Stjerneskudd-seeker",
@@ -190,10 +142,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Matvrak - Appen",
@@ -205,11 +154,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "React", "Node.js"]
     },
     {
       "title": "Surrealistisk paint",
@@ -221,12 +166,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Kunst",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Kunst", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Hypotetisk filmanmelder",
@@ -238,11 +178,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["AI", "React", "Node.js"]
     },
     {
       "title": "Rullende stein - Tetris",
@@ -254,10 +190,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "Vurder din plante",
@@ -269,12 +202,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Plante",
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Plante", "AI", "React", "Node.js"]
     },
     {
       "title": "Dagens ord - Genererende",
@@ -286,12 +214,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Språk",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Språk", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Labyrint på skjermen",
@@ -303,10 +226,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Krypterings-hjelperen",
@@ -318,11 +238,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Sikkerhet",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Sikkerhet", "React", "Node.js"]
     },
     {
       "title": "Personlig almanakk",
@@ -334,11 +250,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "Vue",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "Vue", "Node.js"]
     },
     {
       "title": "Møt robotvennen",
@@ -350,12 +262,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Robot",
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Robot", "AI", "React", "Node.js"]
     },
     {
       "title": "Skjult sjokoladejakt",
@@ -367,10 +274,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Den siste kaffekoppen",
@@ -382,10 +286,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Kattens kalender",
@@ -397,12 +298,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Katt",
-        "Produktivitet",
-        "HTML",
-        "CSS"
-      ]
+      "tags": ["Katt", "Produktivitet", "HTML", "CSS"]
     },
     {
       "title": "Mystiske lyder-bibliotek",
@@ -414,11 +310,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Lyd",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Lyd", "HTML", "JavaScript"]
     },
     {
       "title": "Nattens stjerneutfordring",
@@ -430,10 +322,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Supermarkeds-race",
@@ -445,10 +334,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Virtuell gullfisk",
@@ -460,11 +346,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Virtuell",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Virtuell", "React", "Node.js"]
     },
     {
       "title": "Robot-dans",
@@ -476,10 +358,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Skjult kodejakt",
@@ -491,10 +370,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Python"
-      ]
+      "tags": ["Spill", "Python"]
     },
     {
       "title": "Første møtedag",
@@ -506,11 +382,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "React", "Node.js"]
     },
     {
       "title": "Hekseformularer",
@@ -522,12 +394,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Magisk",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Magisk", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Mini-dungeon",
@@ -539,10 +406,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Tidsreise-mindmap",
@@ -554,11 +418,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Tidsreise",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Tidsreise", "Vue", "JavaScript"]
     },
     {
       "title": "Uforutsigbar værmelding",
@@ -570,11 +430,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Vær",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Vær", "React", "Node.js"]
     },
     {
       "title": "Møllene er ute",
@@ -586,10 +442,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Planteuniverset",
@@ -601,11 +454,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Plante",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Plante", "React", "Node.js"]
     },
     {
       "title": "Flyvende pizza",
@@ -617,10 +466,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "Tidens hemmeligheter",
@@ -632,10 +478,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Kunstige kjærester",
@@ -647,11 +490,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["AI", "React", "Node.js"]
     },
     {
       "title": "Tellebrikkene",
@@ -663,10 +502,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Python"
-      ]
+      "tags": ["Spill", "Python"]
     },
     {
       "title": "Stjernespeil",
@@ -678,11 +514,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Astronomi",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Astronomi", "HTML", "JavaScript"]
     },
     {
       "title": "Intergalaktisk butikk",
@@ -694,10 +526,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Skraperens maskin",
@@ -709,10 +538,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Piratens skattjakt",
@@ -724,10 +550,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Boksing med Bananer",
@@ -739,10 +562,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Den store isbøtta",
@@ -754,10 +574,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "Vegg-i-vegg butikken",
@@ -769,12 +586,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "E-handel",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["E-handel", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Tetris for voksne",
@@ -786,10 +598,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "Uendelig mølle",
@@ -801,10 +610,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Hurtigmat simulator",
@@ -816,11 +622,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "E-handel",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["E-handel", "React", "Node.js"]
     },
     {
       "title": "Rullekule labyrint",
@@ -832,10 +634,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Stjerneskyen",
@@ -847,11 +646,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Kunst",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Kunst", "HTML", "JavaScript"]
     },
     {
       "title": "Tidsgenerator",
@@ -863,11 +658,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Produktivitet", "Vue", "JavaScript"]
     },
     {
       "title": "Monstersimulator",
@@ -879,11 +670,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "React", "Node.js"]
     },
     {
       "title": "Astronautens reise",
@@ -895,10 +682,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Fotballtrener",
@@ -910,11 +694,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Sport",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Sport", "React", "Node.js"]
     },
     {
       "title": "Snøstorm simulator",
@@ -926,10 +706,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Bobby-puzzle",
@@ -941,12 +718,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Puslespill",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Puslespill", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Kaffemaskinen",
@@ -958,11 +730,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "React", "Node.js"]
     },
     {
       "title": "Bananbomben",
@@ -974,10 +742,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "Pysjamas-galleri",
@@ -989,12 +754,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Kunst",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Kunst", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Stilige robotarmer",
@@ -1006,12 +766,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Design",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "tags": ["Design", "HTML", "CSS", "JavaScript"]
     },
     {
       "title": "Snekkerens app",
@@ -1023,11 +778,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Design",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Design", "React", "Node.js"]
     },
     {
       "title": "Tidsmaskin simulator",
@@ -1039,10 +790,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Robotmatlaging",
@@ -1054,11 +802,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "React", "Node.js"]
     },
     {
       "title": "Hundebur simulator",
@@ -1070,11 +814,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Design",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Design", "Vue", "JavaScript"]
     },
     {
       "title": "Veggmonstre",
@@ -1086,10 +826,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Superhelt-trening",
@@ -1101,11 +838,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "React", "Node.js"]
     },
     {
       "title": "Bilverksted simulator",
@@ -1117,11 +850,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "Vue",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "Vue", "Node.js"]
     },
     {
       "title": "Dinosaurenes oppdrag",
@@ -1133,10 +862,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Rensete spill",
@@ -1148,11 +874,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Produktivitet", "React", "JavaScript"]
     },
     {
       "title": "Skygge-fangst",
@@ -1164,10 +886,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Elektrisk matlagingsutstyr",
@@ -1179,11 +898,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Design",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Design", "React", "Node.js"]
     },
     {
       "title": "Hobby-klubb",
@@ -1195,11 +910,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Sosial",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Sosial", "React", "Node.js"]
     },
     {
       "title": "Mystiske bøker",
@@ -1211,11 +922,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Lesing",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Lesing", "Vue", "JavaScript"]
     },
     {
       "title": "Alvetreneren",
@@ -1227,11 +934,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Spill",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Spill", "React", "Node.js"]
     },
     {
       "title": "Shoppingen",
@@ -1243,11 +946,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "React", "Node.js"]
     },
     {
       "title": "Fiskebutikksimulator",
@@ -1259,11 +958,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Simulering",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Simulering", "React", "Node.js"]
     },
     {
       "title": "Tegneserier",
@@ -1275,11 +970,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Kunst",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Kunst", "React", "JavaScript"]
     },
     {
       "title": "Lynrask trening",
@@ -1291,11 +982,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Helse",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Helse", "Vue", "JavaScript"]
     },
     {
       "title": "Fotballagtrener",
@@ -1307,11 +994,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Sport",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Sport", "React", "Node.js"]
     },
     {
       "title": "Robotjeger",
@@ -1323,10 +1006,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Hjemmebarista",
@@ -1338,11 +1018,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Hjemme",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Hjemme", "React", "JavaScript"]
     },
     {
       "title": "Supermarked-manager",
@@ -1354,11 +1030,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "E-handel",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["E-handel", "React", "Node.js"]
     },
     {
       "title": "Magiske portaler",
@@ -1370,10 +1042,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Tegning på skjermen",
@@ -1385,11 +1054,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Kunst",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Kunst", "HTML", "JavaScript"]
     },
     {
       "title": "Tidssone-konverterer",
@@ -1401,11 +1066,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Produktivitet", "React", "JavaScript"]
     },
     {
       "title": "Space Invaders: 3D",
@@ -1417,10 +1078,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Skattejakt i byen",
@@ -1432,11 +1090,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Eventyr",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Eventyr", "React", "Node.js"]
     },
     {
       "title": "Veganer-oppskrifter",
@@ -1448,11 +1102,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Mat",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Mat", "React", "JavaScript"]
     },
     {
       "title": "Superheltenes verden",
@@ -1464,10 +1114,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Personlig dagbok",
@@ -1479,11 +1126,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "Vue",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "Vue", "Node.js"]
     },
     {
       "title": "Ordspill-mester",
@@ -1495,11 +1138,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Spill",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "React", "JavaScript"]
     },
     {
       "title": "Klimahjelperen",
@@ -1511,11 +1150,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Helse",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Helse", "React", "JavaScript"]
     },
     {
       "title": "Tekstbasert eventyrspill",
@@ -1527,10 +1162,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Python"
-      ]
+      "tags": ["Spill", "Python"]
     },
     {
       "title": "Hunderace",
@@ -1542,10 +1174,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Kaffebrygging",
@@ -1557,11 +1186,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Hjemme",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Hjemme", "React", "JavaScript"]
     },
     {
       "title": "Snøballkrig",
@@ -1573,10 +1198,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Godot"
-      ]
+      "tags": ["Spill", "Godot"]
     },
     {
       "title": "Møteplanlegger",
@@ -1588,11 +1210,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Produktivitet", "React", "Node.js"]
     },
     {
       "title": "Hjemmebrygging",
@@ -1604,11 +1222,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Hobby",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Hobby", "Vue", "JavaScript"]
     },
     {
       "title": "Kunstig intelligens på jobben",
@@ -1620,11 +1234,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["AI", "React", "Node.js"]
     },
     {
       "title": "Tårnforsvar",
@@ -1636,10 +1246,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Musikkens reise",
@@ -1651,11 +1258,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Musikk",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Musikk", "Vue", "JavaScript"]
     },
     {
       "title": "Brettspillarena",
@@ -1667,11 +1270,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Spill",
-        "React",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "React", "JavaScript"]
     },
     {
       "title": "Kreativ skriving",
@@ -1683,11 +1282,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Skriving",
-        "HTML",
-        "JavaScript"
-      ]
+      "tags": ["Skriving", "HTML", "JavaScript"]
     },
     {
       "title": "Robot-kokk",
@@ -1699,10 +1294,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Tidsgenerator",
@@ -1714,11 +1306,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Produktivitet",
-        "Vue",
-        "JavaScript"
-      ]
+      "tags": ["Produktivitet", "Vue", "JavaScript"]
     },
     {
       "title": "Superhelt-tema nettside",
@@ -1730,12 +1318,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Nettside",
-        "Superhelter",
-        "HTML",
-        "CSS"
-      ]
+      "tags": ["Nettside", "Superhelter", "HTML", "CSS"]
     },
     {
       "title": "VR-klatrehall",
@@ -1747,11 +1330,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "VR",
-        "Unity"
-      ]
+      "tags": ["Spill", "VR", "Unity"]
     },
     {
       "title": "Automatisk memesgenerator",
@@ -1763,11 +1342,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Memes",
-        "JavaScript",
-        "Python"
-      ]
+      "tags": ["Memes", "JavaScript", "Python"]
     },
     {
       "title": "Kunstig intelligens som lager matoppskrifter",
@@ -1779,12 +1354,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "Matlaging",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["AI", "Matlaging", "React", "Node.js"]
     },
     {
       "title": "Musikkvideo-spill",
@@ -1796,11 +1366,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Musikk",
-        "React"
-      ]
+      "tags": ["Spill", "Musikk", "React"]
     },
     {
       "title": "Zombie-apokalypse-simulator",
@@ -1812,10 +1378,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Høyttaler som leser tweets høyt",
@@ -1827,12 +1390,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Twitter",
-        "App",
-        "React",
-        "Node.js"
-      ]
+      "tags": ["Twitter", "App", "React", "Node.js"]
     },
     {
       "title": "Et fantastisk merkelappsystem for alt",
@@ -1844,12 +1402,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "System",
-        "Merkelapper",
-        "Vue",
-        "Node.js"
-      ]
+      "tags": ["System", "Merkelapper", "Vue", "Node.js"]
     },
     {
       "title": "Uperfekte robot-konkurranse",
@@ -1861,11 +1414,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Robot",
-        "Konkurranse",
-        "Python"
-      ]
+      "tags": ["Robot", "Konkurranse", "Python"]
     },
     {
       "title": "Skrivebordets superhelt-team",
@@ -1877,12 +1426,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Superhelter",
-        "Nettside",
-        "HTML",
-        "CSS"
-      ]
+      "tags": ["Superhelter", "Nettside", "HTML", "CSS"]
     },
     {
       "title": "Alien-språkoversetter",
@@ -1894,11 +1438,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "AI",
-        "Språk",
-        "JavaScript"
-      ]
+      "tags": ["AI", "Språk", "JavaScript"]
     },
     {
       "title": "Tidsmaskin på nett",
@@ -1910,11 +1450,7 @@
         "backend": false,
         "game": false
       },
-      "tags": [
-        "Nettside",
-        "Tid",
-        "React"
-      ]
+      "tags": ["Nettside", "Tid", "React"]
     },
     {
       "title": "Meme-generator 2.0",
@@ -1926,11 +1462,7 @@
         "backend": true,
         "game": false
       },
-      "tags": [
-        "Memes",
-        "App",
-        "Node.js"
-      ]
+      "tags": ["Memes", "App", "Node.js"]
     },
     {
       "title": "Minecraft IRL",
@@ -1942,11 +1474,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "AR",
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["AR", "Spill", "Unity"]
     },
     {
       "title": "Hurtigboks-oppgraderingsspill",
@@ -1958,10 +1486,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "JavaScript"
-      ]
+      "tags": ["Spill", "JavaScript"]
     },
     {
       "title": "App for å kaste papirfly",
@@ -1973,11 +1498,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "App",
-        "Spill",
-        "React"
-      ]
+      "tags": ["App", "Spill", "React"]
     },
     {
       "title": "Klesdesigner for VR",
@@ -1989,11 +1510,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "VR",
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["VR", "Spill", "Unity"]
     },
     {
       "title": "Nedbrytende byggeprosjekt",
@@ -2005,10 +1522,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Robot-kampsport",
@@ -2020,10 +1534,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     },
     {
       "title": "Overlevelseskunsten",
@@ -2035,10 +1546,7 @@
         "backend": false,
         "game": true
       },
-      "tags": [
-        "Spill",
-        "Unity"
-      ]
+      "tags": ["Spill", "Unity"]
     }
   ]
 }
