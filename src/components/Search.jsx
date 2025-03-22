@@ -44,7 +44,13 @@ export function Search() {
 
         const matchesSearchTerm =
           project.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
-          project.description.toLowerCase().includes(searchTerm.toLowerCase());
+          project.description
+            .toLowerCase()
+            .includes(searchTerm.toLowerCase()) ||
+          (project.tags &&
+            project.tags.some((tag) =>
+              tag.toLowerCase().includes(searchTerm.toLowerCase()),
+            ));
 
         const matchesCategories =
           filters.categories.length === 0 ||
@@ -59,13 +65,13 @@ export function Search() {
 
     let filteredProjects = getFilteredProjects();
 
-    // If all projects are used, reset and rerun the search with the same filters
     if (filteredProjects.length === 0) {
       resetPastProjects();
       filteredProjects = getFilteredProjects();
     }
 
     console.log(filteredProjects.length);
+    console.log(filteredProjects);
 
     // Pick a random project
     const randomChoice = Math.floor(Math.random() * filteredProjects.length);
@@ -76,7 +82,13 @@ export function Search() {
   };
 
   return (
-    <div className="flex flex-col gap-4">
+    <form
+      className="flex flex-col gap-4"
+      onSubmit={(e) => {
+        e.preventDefault();
+        handleSearch();
+      }}
+    >
       {/* Searchbar */}
       <input
         type="text"
@@ -136,12 +148,9 @@ export function Search() {
         </div>
       </div>
       {/* Search button */}
-      <button
-        onClick={handleSearch}
-        className="w-full bg-red-500 py-2 rounded-sm"
-      >
+      <button type="submit" className="w-full bg-red-500 py-2 rounded-sm">
         Søk
       </button>
-    </div>
+    </form>
   );
 }

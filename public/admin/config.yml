@@ -1,0 +1,57 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: public/media/uploads
+public_folder: /media/uploads
+
+site_url: https://hackatontips.netlify.app/
+display_url: https://hackatontips.netlify.app/
+
+collections:
+  - name: "prosjekter"
+    label: "Alle prosjekter"
+    extentions: "json"
+    format: json
+    file: "json/prosjekter.json"
+    fields: 
+      - name: 'prosjekter'
+        label: 'Prosjekter'
+        widget: 'list'
+        allow_add: true
+        allow_delete: true
+        fields:
+          - name: 'title'
+            label: 'Navn'
+            widget: 'string'
+          - name: 'description'
+            label: 'Beskrivelse'
+            widget: 'text'
+          - name: 'min'
+            label: 'Deltagere (min)'
+            widget: 'number'
+          - name: 'max'
+            label: 'Deltagere (maks)'
+            widget: 'number'
+          - name: 'skills'
+            label: 'Ferdigheter'
+            widget: 'object'
+            fields:
+              - name: 'frontend'
+                label: 'Frontend'
+                widget: 'boolean'
+              - name: 'backend'
+                label: 'Backend'
+                widget: 'boolean'
+              - name: 'game'
+                label: 'Games'
+                widget: 'boolean'
+          - name: 'tags'
+            label: 'Tags'
+            widget: 'list'
+            allow_add: true
+            allow_delete: true
+            fields:
+              - name: 'tag'
+                label: 'Tag'
+                widget: 'string'

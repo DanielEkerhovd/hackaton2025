@@ -1,0 +1,1550 @@
+[
+  {
+    "title": "Hjemmelaget meme-generator",
+    "description": "Lag ditt eget meme ved å velge bilder og tekst. Perfekt for å skape morsomme memes til vennene dine!",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Meme", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Superheltenavn-generator",
+    "description": "En nettside som lager tilfeldige, episke superheltenavn for å få deg til å føle deg uovervinnelig.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Generasjon", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Gravemaskin-simulator",
+    "description": "Et spill der du kjører en gravemaskin og prøver å grave så dypt som mulig uten å ødelegge noe.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Ektevenn-generator",
+    "description": "Lag en digital venn som alltid er der for deg, med samtaler og morsomme svar når du trenger det!",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "Node.js", "React"]
+  },
+  {
+    "title": "Robot-bartender",
+    "description": "Lag en robot som kan mikse drinker og gi deg tips om hvordan du lager perfekte cocktails.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Robot", "React", "Node.js"]
+  },
+  {
+    "title": "Tegneserie-forteller",
+    "description": "Lag en nettside der du kan lage din egen tegneserie med forskjellige karakterer og scener.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Tegneserie", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Kattens veiledning til livet",
+    "description": "En katt gir deg livsråd basert på spørsmålene du stiller. Du kan stole på dens visdom!",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Katt", "AI", "React", "Node.js"]
+  },
+  {
+    "title": "Tidligere livs-profiler",
+    "description": "En nettside som gir deg tilfeldige profiler fra dine tidligere liv, basert på absurd AI-generert informasjon.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "React", "Node.js"]
+  },
+  {
+    "title": "Eksamens-hjelper",
+    "description": "En nettside som gir deg tilfeldige, morsomme, men ubrukelige tips når du forbereder deg til eksamen.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "JavaScript"]
+  },
+  {
+    "title": "Generasjon av dårlige vitser",
+    "description": "En nettside som genererer helt forferdelige vitser som får deg til å rulle med øynene.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Humor", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Hundens dagbok",
+    "description": "En nettside der hunder (spilt av mennesker) skriver om sine eventyr og møter med mennesker.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Hund", "Blogg", "React", "Node.js"]
+  },
+  {
+    "title": "Stjerneskudd-seeker",
+    "description": "Et spill der du styrer en stjerne på jakt etter andre stjerner i universet.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Matvrak - Appen",
+    "description": "En app som gir deg daglige forslag til oppskrifter basert på hva du har i kjøleskapet.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "Node.js"]
+  },
+  {
+    "title": "Surrealistisk paint",
+    "description": "Mal på lerret med surrealistiske verktøy som gjør bilder ekstra uvanlige.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Kunst", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Hypotetisk filmanmelder",
+    "description": "En nettside der en AI anmelder filmer som ikke finnes, basert på et tilfeldig valgt plot.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "React", "Node.js"]
+  },
+  {
+    "title": "Rullende stein - Tetris",
+    "description": "Tetris med en twist: brikkene ruller nedover skjermen, og du må tilpasse dem til plasseringen.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "Vurder din plante",
+    "description": "En nettside som hjelper deg med å vurdere hvordan plantene dine har det basert på bilder du laster opp.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Plante", "AI", "React", "Node.js"]
+  },
+  {
+    "title": "Dagens ord - Genererende",
+    "description": "En app som gir deg et nytt ord hver dag, sammen med et morsomt og meningsløst definisjon.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Språk", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Labyrint på skjermen",
+    "description": "Et spill der du må navigere gjennom en tilfeldig generert labyrint før du blir fanget av tidens klokken.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Krypterings-hjelperen",
+    "description": "En app som hjelper deg å kryptere og dekryptere meldinger på en morsom og lettfattelig måte.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Sikkerhet", "React", "Node.js"]
+  },
+  {
+    "title": "Personlig almanakk",
+    "description": "En digital almanakk hvor du kan organisere ukens aktiviteter, på en humoristisk og lettfattelig måte.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "Vue", "Node.js"]
+  },
+  {
+    "title": "Møt robotvennen",
+    "description": "En nettside der en robot deler sine tanker om menneskelige vaner og bidrar med humoristiske kommentarer.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Robot", "AI", "React", "Node.js"]
+  },
+  {
+    "title": "Skjult sjokoladejakt",
+    "description": "Et spennende spill der du må finne skjult sjokolade i et stort rom, før tiden går ut.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Den siste kaffekoppen",
+    "description": "Et spill der du må balansere på kanten av en kopp for å unngå å bli kastet ut.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Kattens kalender",
+    "description": "En kalender der hver dato er fylt med en morsom katt-aktivitet.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Katt", "Produktivitet", "HTML", "CSS"]
+  },
+  {
+    "title": "Mystiske lyder-bibliotek",
+    "description": "En app som spiller av forskjellige mystiske lyder, som en skraping i natten eller en ukjent knurring.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Lyd", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Nattens stjerneutfordring",
+    "description": "Et spill der du må finne skjulte stjerner på nattehimmelen før de forsvinner.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Supermarkeds-race",
+    "description": "Et spill der du konkurrerer om å finne varene raskest i et hektisk supermarked.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Virtuell gullfisk",
+    "description": "En nettside hvor du kan ta vare på en virtuell gullfisk, og lære å pleie den gjennom utfordringer.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Virtuell", "React", "Node.js"]
+  },
+  {
+    "title": "Robot-dans",
+    "description": "Et spill hvor du trener en robot til å utføre forskjellige dansetrinn etter musikkens rytme.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Skjult kodejakt",
+    "description": "Et spill hvor du må finne og dekryptere skjulte koder for å avsløre hemmeligheter.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Python"]
+  },
+  {
+    "title": "Første møtedag",
+    "description": "En app som hjelper deg å forberede deg på første møte med et nytt team, med små oppgaver og påminnelser.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "Node.js"]
+  },
+  {
+    "title": "Hekseformularer",
+    "description": "En nettside som genererer tilfeldige hekseformularer og magiske staver for morsomme eventyr.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Magisk", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Mini-dungeon",
+    "description": "Et spill hvor du må navigere gjennom en kort, men vanskelig dungeon for å finne skjulte skatter.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Tidsreise-mindmap",
+    "description": "En app som lar deg lage tidslinjer for tidsreiser, og se hvordan små endringer påvirker framtiden.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Tidsreise", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Uforutsigbar værmelding",
+    "description": "En nettside som gir deg værmeldinger som er helt tilfeldige og uforutsigbare.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Vær", "React", "Node.js"]
+  },
+  {
+    "title": "Møllene er ute",
+    "description": "Et mobilspill hvor du skal hindre at møllene angriper klærne dine før de blir ødelagt.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Planteuniverset",
+    "description": "En nettside som hjelper deg å dyrke et univers av planter og se hvordan de vokser over tid.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Plante", "React", "Node.js"]
+  },
+  {
+    "title": "Flyvende pizza",
+    "description": "Et spill hvor du må kontrollere en pizza som flyr gjennom rommet og unngår hindringer.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "Tidens hemmeligheter",
+    "description": "Et spill hvor du må finne bortgjemte tidskapsler for å avsløre menneskehetens hemmeligheter.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Kunstige kjærester",
+    "description": "En nettside hvor du kan lage og interagere med kunstige kjærester laget av AI.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "React", "Node.js"]
+  },
+  {
+    "title": "Tellebrikkene",
+    "description": "Et spill hvor du skal bruke matematiske ferdigheter for å hjelpe brikker å overleve på et brett.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Python"]
+  },
+  {
+    "title": "Stjernespeil",
+    "description": "En app som viser deg stjernene på nattehimmelen, og gir deg muligheten til å lage ditt eget stjernespeil.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Astronomi", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Intergalaktisk butikk",
+    "description": "Et spill der du driver en butikk på en fremmed planet og selger fantastiske varer til utenomjordiske kunder.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Skraperens maskin",
+    "description": "Et spill hvor du bygger en maskin for å skrape og samle ulike materialer fra et gammelt industriområde.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Piratens skattjakt",
+    "description": "Et spill hvor du leder et piratskip på jakt etter den store skatten, mens du unngår feller og farer.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Boksing med Bananer",
+    "description": "Et spill hvor du bokser mot bananer som kaster seg mot deg fra alle kanter.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Den store isbøtta",
+    "description": "Et spill der du prøver å fylle en bøtte med isbiter før den renner over.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "Vegg-i-vegg butikken",
+    "description": "En nettside som viser de rareste og morsomste produktene fra butikken ved siden av din.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["E-handel", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Tetris for voksne",
+    "description": "En voksen versjon av Tetris, der blokker er erstattet med kaffe, regninger og jobbmøter.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "Uendelig mølle",
+    "description": "Et spill hvor du spiller et uendelig spill med et møllespill som aldri tar slutt.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Hurtigmat simulator",
+    "description": "En app som simulerer en hurtigmatrestaurant – en oppgave for et team som må håndtere alt fra menyvalg til kundeservice.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["E-handel", "React", "Node.js"]
+  },
+  {
+    "title": "Rullekule labyrint",
+    "description": "Et spill hvor du ruller en kule gjennom en labyrint med feller og hindringer.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Stjerneskyen",
+    "description": "En app som lar deg skape din egen stjernesky, der stjernene lyser basert på ditt humør.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Kunst", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Tidsgenerator",
+    "description": "En app som genererer tilfeldige tidspunkter og utfordringer basert på tidspunktet.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Produktivitet", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Monstersimulator",
+    "description": "En app hvor du trener ditt eget monster og sender det på oppdrag – et prosjekt som kan dra nytte av en liten gruppe med både design- og backend-ekspertise.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "React", "Node.js"]
+  },
+  {
+    "title": "Astronautens reise",
+    "description": "Et spill der du spiller astronaut og utforsker ulike planeter og galakser.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Fotballtrener",
+    "description": "En app som gir deg utfordringer som fotballtrener – fra lagoppbygging til taktiske råd.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Sport", "React", "Node.js"]
+  },
+  {
+    "title": "Snøstorm simulator",
+    "description": "Et spill hvor du navigerer gjennom en intens snøstorm og prøver å finne veien hjem.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Bobby-puzzle",
+    "description": "Et puslespill der du setter sammen bilder av kjente kjendiser og ikoniske scener.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Puslespill", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Kaffemaskinen",
+    "description": "En app der du styrer en kaffemaskin med detaljert instruksjon – et prosjekt som ofte krever samspill mellom design og systemintegrasjon.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "React", "Node.js"]
+  },
+  {
+    "title": "Bananbomben",
+    "description": "Et spill der du kaster bananer som bomber for å stoppe en gal verden fra å falle fra hverandre.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "Pysjamas-galleri",
+    "description": "En nettside som viser de mest kreative pysjamasene i et digitalt galleri.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Kunst", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Stilige robotarmer",
+    "description": "En app der du designer dine egne robotarmer og ser dem utføre kule bevegelser.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Design", "HTML", "CSS", "JavaScript"]
+  },
+  {
+    "title": "Snekkerens app",
+    "description": "En app som hjelper deg med å planlegge og bygge ditt eget drømmehus – et prosjekt for de som ønsker en helhetlig tilnærming.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Design", "React", "Node.js"]
+  },
+  {
+    "title": "Tidsmaskin simulator",
+    "description": "Et spill hvor du styrer en tidsmaskin og reiser til forskjellige tidsepoker for å løse oppdrag.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Robotmatlaging",
+    "description": "En app der du programmerer en robot til å lage mat basert på oppskrifter du skriver inn – et fullstackprosjekt som drar nytte av både UI-design og backend-logikk.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "React", "Node.js"]
+  },
+  {
+    "title": "Hundebur simulator",
+    "description": "En app der du designer og bygger tilpassede hundebur – et prosjekt som passer for et lite, fokusert team.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Design", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Veggmonstre",
+    "description": "Et spill der monstre plutselig dukker opp fra veggene – en rask action-opplevelse for et lite lag.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Superhelt-trening",
+    "description": "En app der du trener din egen superhelt med ulike ferdigheter – et prosjekt som drar nytte av integrasjon mellom front- og backend.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "React", "Node.js"]
+  },
+  {
+    "title": "Bilverksted simulator",
+    "description": "En app der du simulerer et bilverksted, fra reparasjoner til modifikasjoner – et prosjekt som kan kreve et litt større team.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "Vue", "Node.js"]
+  },
+  {
+    "title": "Dinosaurenes oppdrag",
+    "description": "Et spill der du styrer en dinosaur på oppdrag for å redde sin verden.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Rensete spill",
+    "description": "En app som lar deg organisere og 'rense' ditt digitale rom med enkle oppgaver – perfekt for et lite team.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "JavaScript"]
+  },
+  {
+    "title": "Skygge-fangst",
+    "description": "Et spill hvor du fanger og farger inn skygger i en magisk verden – en kort og actionfylt utfordring.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Elektrisk matlagingsutstyr",
+    "description": "En app der du designer elektrisk kjøkkenutstyr for fremtidens kjøkken – et mer komplekst prosjekt som passer for et team med flere kompetanser.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Design", "React", "Node.js"]
+  },
+  {
+    "title": "Hobby-klubb",
+    "description": "En app for å organisere hobbyklubber, sende invitasjoner og arrangere aktiviteter – et sosialt prosjekt som kan tilpasses teamstørrelse.",
+    "min": 1,
+    "max": 5,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Sosial", "React", "Node.js"]
+  },
+  {
+    "title": "Mystiske bøker",
+    "description": "En app som anbefaler bøker basert på mystiske ledetråder og gåter.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Lesing", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Alvetreneren",
+    "description": "En app hvor du trener alver i en magisk verden for å utføre spesielle oppdrag.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Spill", "React", "Node.js"]
+  },
+  {
+    "title": "Shoppingen",
+    "description": "En app for å lage din egen personlige shoppingliste og sjekke hvilke butikker som har de beste tilbudene.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "Node.js"]
+  },
+  {
+    "title": "Fiskebutikksimulator",
+    "description": "En app der du driver din egen fiskebutikk og lærer deg fiskehemmeligheter – et prosjekt som krever både kreativ design og teknisk backend.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Simulering", "React", "Node.js"]
+  },
+  {
+    "title": "Tegneserier",
+    "description": "En app der du lager og deler dine egne tegneserier med venner og familie.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Kunst", "React", "JavaScript"]
+  },
+  {
+    "title": "Lynrask trening",
+    "description": "En app som gir deg raske treningsøkter og holder deg motivert – et enkelt, frontend-fokusert prosjekt.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Helse", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Fotballagtrener",
+    "description": "En app for å sette opp og administrere ditt eget fotballag med treningsøkter og kamper.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Sport", "React", "Node.js"]
+  },
+  {
+    "title": "Robotjeger",
+    "description": "Et spill der du jakter på andre roboter i en futuristisk by – et kort, actionfylt prosjekt.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Hjemmebarista",
+    "description": "En app som hjelper deg med å brygge den perfekte koppen kaffe – et enkelt, men detaljert designprosjekt.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Hjemme", "React", "JavaScript"]
+  },
+  {
+    "title": "Supermarked-manager",
+    "description": "En app der du styrer et supermarked, fra varebeholdning til kundeservice – et fullstackprosjekt som kan tilpasses et mellomstort team.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["E-handel", "React", "Node.js"]
+  },
+  {
+    "title": "Magiske portaler",
+    "description": "Et spill der du åpner magiske portaler til forskjellige verdener, og må overleve utfordringer.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Tegning på skjermen",
+    "description": "En app som lar deg tegne direkte på skjermen med ulike verktøy og farger.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Kunst", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Tidssone-konverterer",
+    "description": "En app som hjelper deg å konvertere tidssoner over hele verden med en enkel brukerflate.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "JavaScript"]
+  },
+  {
+    "title": "Space Invaders: 3D",
+    "description": "Et 3D-spill der du kjemper mot romvesener som invaderer jorden – et ambisiøst spillprosjekt.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Skattejakt i byen",
+    "description": "En app hvor du oppretter og deltar i skattejakter i din egen by – et sosialt fullstackprosjekt.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Eventyr", "React", "Node.js"]
+  },
+  {
+    "title": "Veganer-oppskrifter",
+    "description": "En app som gir deg daglige, deilige veganeroppskrifter og tips.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Mat", "React", "JavaScript"]
+  },
+  {
+    "title": "Superheltenes verden",
+    "description": "Et spill der du styrer en gruppe superhelter på oppdrag for å redde verden.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Personlig dagbok",
+    "description": "En app der du kan skrive dagbok, lagre minner og eventuelt dele med andre.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "Vue", "Node.js"]
+  },
+  {
+    "title": "Ordspill-mester",
+    "description": "En app for å spille ordspill mot venner eller AI, for å utvikle ditt ordforråd.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Spill", "React", "JavaScript"]
+  },
+  {
+    "title": "Klimahjelperen",
+    "description": "En app som gir deg daglige tips for å redusere ditt karbonavtrykk.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Helse", "React", "JavaScript"]
+  },
+  {
+    "title": "Tekstbasert eventyrspill",
+    "description": "Et tekstbasert eventyrspill der dine valg former historien og utfallet.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Python"]
+  },
+  {
+    "title": "Hunderace",
+    "description": "Et spill der du konkurrerer med hunder i ulike løp og utfordringer.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Kaffebrygging",
+    "description": "En app som hjelper deg å lage den perfekte koppen kaffe med steg-for-steg instruksjoner.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Hjemme", "React", "JavaScript"]
+  },
+  {
+    "title": "Snøballkrig",
+    "description": "Et spill hvor du kaster snøballer på motstandere for å vinne.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Godot"]
+  },
+  {
+    "title": "Møteplanlegger",
+    "description": "En app som hjelper deg å planlegge møter, finne ledige tidspunkter og sende invitasjoner.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Produktivitet", "React", "Node.js"]
+  },
+  {
+    "title": "Hjemmebrygging",
+    "description": "En app for å lære hvordan du brygger øl hjemme, med detaljerte instruksjoner.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Hobby", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Kunstig intelligens på jobben",
+    "description": "En app som lar deg tilpasse en AI for å hjelpe med arbeidsoppgavene dine.",
+    "min": 2,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "React", "Node.js"]
+  },
+  {
+    "title": "Tårnforsvar",
+    "description": "Et klassisk tårnforsvarsspill der du beskytter basen mot fiendtlige angrep.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Musikkens reise",
+    "description": "En app som guider deg gjennom musikkens historie, fra klassisk til moderne.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Musikk", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Brettspillarena",
+    "description": "En app for å spille klassiske brettspill med venner eller mot AI.",
+    "min": 1,
+    "max": 4,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Spill", "React", "JavaScript"]
+  },
+  {
+    "title": "Kreativ skriving",
+    "description": "En app som gir deg daglige skriveoppgaver og inspirasjon for å utvikle skriveferdighetene dine.",
+    "min": 1,
+    "max": 2,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Skriving", "HTML", "JavaScript"]
+  },
+  {
+    "title": "Robot-kokk",
+    "description": "Et spill der du styrer en robotkokk som lager mat og serverer kunder.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Tidsgenerator",
+    "description": "En app som genererer tilfeldige tidspunkter for morsomme utfordringer.",
+    "min": 1,
+    "max": 3,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Produktivitet", "Vue", "JavaScript"]
+  },
+  {
+    "title": "Superhelt-tema nettside",
+    "description": "Lag en nettside der du lager dine egne superhelter, gir dem krefter og setter opp en interaktiv historie.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Nettside", "Superhelter", "HTML", "CSS"]
+  },
+  {
+    "title": "VR-klatrehall",
+    "description": "Et VR-spill hvor deltakerne må bygge virtuelle klatrevegger sammen og konkurrere om hvem som kommer høyest.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "VR", "Unity"]
+  },
+  {
+    "title": "Automatisk memesgenerator",
+    "description": "Lag et system som genererer memes basert på tilfeldige bilder og tekster som er populært på nettet.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Memes", "JavaScript", "Python"]
+  },
+  {
+    "title": "Kunstig intelligens som lager matoppskrifter",
+    "description": "En AI som foreslår oppskrifter basert på ingrediensene du har tilgjengelig. Perfekt for når du er utmattet!",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "Matlaging", "React", "Node.js"]
+  },
+  {
+    "title": "Musikkvideo-spill",
+    "description": "Lag et spill der deltakerne må lage musikkvideoer basert på forskjellige sanger. Beste video vinner!",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Musikk", "React"]
+  },
+  {
+    "title": "Zombie-apokalypse-simulator",
+    "description": "Et samarbeidsspill hvor du bygger en by i en post-apokalyptisk verden og beskytter den mot zombier.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Høyttaler som leser tweets høyt",
+    "description": "Lag en app som lar deltakerne skrive tweets, og deretter blir de lest høyt av en tilfeldig generert høyttalerstemme.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Twitter", "App", "React", "Node.js"]
+  },
+  {
+    "title": "Et fantastisk merkelappsystem for alt",
+    "description": "Lag et system der du kan merke alt rundt deg med super-spesifikke etiketter. Ingenting er for unikt!",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["System", "Merkelapper", "Vue", "Node.js"]
+  },
+  {
+    "title": "Uperfekte robot-konkurranse",
+    "description": "Lag uperfekte roboter som skal utføre morsomme og ukonvensjonelle oppgaver. Vinneren er den med den mest kreative roboten.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Robot", "Konkurranse", "Python"]
+  },
+  {
+    "title": "Skrivebordets superhelt-team",
+    "description": "Lag en nettside der hvert medlem lager en superhelt som representerer sitt skrivebord. Hvem har det beste skrivebordet?",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Superhelter", "Nettside", "HTML", "CSS"]
+  },
+  {
+    "title": "Alien-språkoversetter",
+    "description": "Lag et program som oversetter menneskelig språk til et tilfeldig, absurd alien-språk. Klarer du å kommunisere med romvesenene?",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["AI", "Språk", "JavaScript"]
+  },
+  {
+    "title": "Tidsmaskin på nett",
+    "description": "Bygg en nettside som kan vise hvordan verden ville vært i forskjellige tidsepoker – inkludert en versjon med dinosaurer!",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": false
+    },
+    "tags": ["Nettside", "Tid", "React"]
+  },
+  {
+    "title": "Meme-generator 2.0",
+    "description": "Lag et system som lar folk lage meme-bilder med egne ansikter, og så laste dem opp til en felles plattform.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": true,
+      "game": false
+    },
+    "tags": ["Memes", "App", "Node.js"]
+  },
+  {
+    "title": "Minecraft IRL",
+    "description": "Lag en augmented reality-app som lar deltakerne bygge en verden som ser ut som Minecraft i virkeligheten.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["AR", "Spill", "Unity"]
+  },
+  {
+    "title": "Hurtigboks-oppgraderingsspill",
+    "description": "Lag et spill der deltakerne konkurrerer om å oppgradere en boks til å bli mer kraftig ved hjelp av tilfeldige objekter.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "JavaScript"]
+  },
+  {
+    "title": "App for å kaste papirfly",
+    "description": "Lag en app der folk kan kaste virtuelle papirfly og konkurrere om å få lengst kast. Bruk vindhastighet og andre faktorer!",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": true,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["App", "Spill", "React"]
+  },
+  {
+    "title": "Klesdesigner for VR",
+    "description": "Lag et VR-spill der folk kan lage klær til karakterene sine og gå på moteshow i en virtuell verden.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["VR", "Spill", "Unity"]
+  },
+  {
+    "title": "Nedbrytende byggeprosjekt",
+    "description": "Lag et samarbeidsspill der deltakerne bygger og deretter må ødelegge det de har bygget sammen.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Robot-kampsport",
+    "description": "Bygg et spill hvor deltakerne lager robot-kampsport-lag og konkurrerer om å slå ut hverandre med fantastiske krefter.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  },
+  {
+    "title": "Overlevelseskunsten",
+    "description": "Lag et spill der deltakerne konkurrerer om å overleve i et ekstremt miljø ved å lage sine egne matlaging- og overlevelsesstrategier.",
+    "min": 5,
+    "max": 9,
+    "skills": {
+      "frontend": false,
+      "backend": false,
+      "game": true
+    },
+    "tags": ["Spill", "Unity"]
+  }
+]

@@ -28,7 +28,12 @@ export function Display() {
           </div>
         </>
       ) : (
-        <p className="text-center">Trenger du inspirasjon? Søk på prosjekter</p>
+        <div className="h-full flex flex-col justify-center gap-2">
+          <p className="font-light">
+            Vet du ikke hva du skal lage for hackatonet?
+          </p>
+          <p className="font-light">Legg inn kriterier, vi gjør resten</p>
+        </div>
       )}
     </div>
   );

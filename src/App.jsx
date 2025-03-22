@@ -1,13 +1,17 @@
 import { Routes, Route } from 'react-router-dom';
 
-// import { useProjectStore } from './datastorage/project.js';
+import { useProjectStore } from './datastorage/project.js';
 
 import { Home } from './pages/Home';
 import { Header } from './components/navigation/Header';
-// import { useEffect } from 'react';
+import { useEffect } from 'react';
 
 function App() {
-  // const { allProjects, pastProjects, fetchProjects  } = useProjectStore();
+  const { allProjects } = useProjectStore();
+
+  useEffect(() => {
+    console.log(allProjects);
+  }, [allProjects]);
 
   return (
     <>
