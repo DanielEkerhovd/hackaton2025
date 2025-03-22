@@ -15,7 +15,7 @@ export function Home() {
   }, []);
 
   return (
-    <section className="flex flex-col md:flex-row gap-2 md:gap-10 w-full justify-center md:items-center">
+    <section className="flex flex-col md:flex-row gap-2 md:gap-10 w-full justify-center md:justify-between md:items-center">
       <Display />
       <div className="flex-col justify-between md:h-[400px] flex">
         {imBored ? (

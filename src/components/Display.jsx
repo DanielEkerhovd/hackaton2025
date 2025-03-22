@@ -5,7 +5,7 @@ export function Display() {
   const { title, description, min, max } = activeProject;
 
   return (
-    <div className="bg-shadow rounded-sm min-h-[240px] md:min-h-[400px] h-fit w-full flex flex-col justify-around gap-5 p-5 max-w-[600px]">
+    <div className="bg-shadow rounded-sm min-h-[240px] md:min-h-[400px] h-fit w-full flex flex-col justify-around gap-5 p-5 max-w-[600px] lg:max-w-">
       {activeProject.title ? (
         <>
           <h1 className="font-semibold text-lg md:text-4xl">{title}</h1>
