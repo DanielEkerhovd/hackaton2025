@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import getProjects from '../api/getProjects';
+import GetProjects from '../api/GetProjects';
 
 export const useProjectStore = create((set) => ({
   activeProject: {},
@@ -12,7 +12,7 @@ export const useProjectStore = create((set) => ({
   resetPastProjects: () => set({ pastProjects: [] }),
 
   fetchProjects: async () => {
-    const projects = await getProjects('/projects.json');
+    const projects = await GetProjects('/projects.json');
     set({ allProjects: projects });
   },
 }));
