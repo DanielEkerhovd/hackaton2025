@@ -1,15 +1,22 @@
 import { create } from 'zustand';
 import { getProjects } from '../api/getProjects';
 
-const projects = await getProjects('/projects.json');
+export const useProjectStore = create((set) => {
+  const initializeProjects = async () => {
+    const projects = await getProjects('/projects.json');
+    set({ allProjects: projects });
+  };
 
-export const useProjectStore = create((set) => ({
-  activeProject: {},
-  pastProjects: [],
-  allProjects: projects,
+  initializeProjects();
 
-  setActiveProject: (project) => set({ activeProject: project }),
-  addPastProjects: (project) =>
-    set((state) => ({ pastProjects: [...state.pastProjects, project] })),
-  resetPastProjects: () => set({ pastProjects: [] }),
-}));
+  return {
+    activeProject: {},
+    pastProjects: [],
+    allProjects: [],
+
+    setActiveProject: (project) => set({ activeProject: project }),
+    addPastProjects: (project) =>
+      set((state) => ({ pastProjects: [...state.pastProjects, project] })),
+    resetPastProjects: () => set({ pastProjects: [] }),
+  };
+});
