@@ -12,7 +12,8 @@ export const useProjectStore = create((set) => ({
   resetPastProjects: () => set({ pastProjects: [] }),
 
   fetchProjects: async () => {
-    const projects = await GetProjects('/projects.json');
+    const fetch = await GetProjects('/json/projects.json');
+    const projects = fetch.prosjekt;
     set({ allProjects: projects });
   },
 }));
