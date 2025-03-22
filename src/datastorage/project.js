@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { getProjects } from '../api/getProjects.js';
+import getProjects from '../api/getProjects';
 
 export const useProjectStore = create((set) => {
   const initializeProjects = async () => {

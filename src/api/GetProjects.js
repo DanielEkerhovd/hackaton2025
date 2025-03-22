@@ -1,4 +1,4 @@
-export async function getProjects(location) {
+export default async function getProjects(location) {
   return fetch(location)
     .then((response) => {
       if (!response.ok) {
