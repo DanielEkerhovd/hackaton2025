@@ -121,7 +121,7 @@ export function Search() {
         </div>
 
         {/* Search input */}
-        <div className="flex flex-col justify-center items-center gap-2">
+        <div className="flex flex-col justify-center gap-2">
           <label htmlFor="teamSize" className="block mb-1">
             Team Size
           </label>
@@ -131,8 +131,9 @@ export function Search() {
             name="teamSize"
             min="1"
             max="9"
+            placeholder="1 - 9"
             onChange={(e) => setTeamSize(Number(e.target.value))}
-            className="bg-highlight text-white p-2 rounded-sm text-center"
+            className="bg-highlight text-white p-2 rounded-sm text-center h-10 w-18"
           />
         </div>
       </div>
