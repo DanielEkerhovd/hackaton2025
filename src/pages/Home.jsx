@@ -28,7 +28,7 @@ export function Home() {
           </>
         ) : (
           <button
-            className="p-1 bg-highlight rounded-sm text-[10px] w-fit hidden md:block"
+            className="p-1 bg-shadow rounded-sm text-[10px] w-fit hidden md:block"
             onClick={() => setImBored(!imBored)}
           >
             Need some focus?
